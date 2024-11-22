@@ -1,0 +1,15 @@
+Tempo de execução de bubble_sort: 7.64 s	Memória usada: 0.0 MiB
+Tempo de execução de selection_sort: 23.91 s	Memória usada: 0.0 MiB
+Tempo de execução de insertion_sort: 39.60 s	Memória usada: 0.25 MiB
+Tempo de execução de bubble_sort: 8.29 s	Memória usada: 0.0 MiB
+Tempo de execução de selection_sort: 24.39 s	Memória usada: 0.0 MiB
+Tempo de execução de insertion_sort: 40.96 s	Memória usada: 0.25 MiB
+Tempo de execução de bubble_sort: 8.27 s	Memória usada: 0.0 MiB
+Tempo de execução de selection_sort: 25.35 s	Memória usada: 0.0 MiB
+Tempo de execução de insertion_sort: 43.62 s	Memória usada: 0.25 MiB
+Tempo de execução de bubble_sort: 8.48 s	Memória usada: 0.0 MiB
+Tempo de execução de selection_sort: 26.34 s	Memória usada: 0.0 MiB
+Tempo de execução de insertion_sort: 42.48 s	Memória usada: 0.25 MiB
+Tempo de execução de bubble_sort: 4.22 s	Memória usada: 0.0 MiB
+Tempo de execução de selection_sort: 25.38 s	Memória usada: 0.0 MiB
+Tempo de execução de insertion_sort: 41.23 s	Memória usada: 0.25 MiB
